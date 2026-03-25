@@ -9,20 +9,9 @@ Soy un creador de contenido en Instagram desde hace 7 años. Estoy comenzando en
 ---
 
 ## 📚 Aprendiendo (Learning Path)
-Actualmente enfocado en el desarrollo Full Stack e IA:
-* **Lenguajes:** HTML5, CSS3, JavaScript (ES6+)
+Actualmente enfocado en el desarrollo de la IA:
 * **IA & Data:** Prompt Engineering, Python (Próximamente)
 * **Herramientas:** Git, GitHub, VS Code
-
----
-
-## 🛠️ Skills & Tools
-<p align="left">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</p>
 
 ---
 
