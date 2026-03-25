@@ -26,11 +26,6 @@ Actualmente enfocado en el desarrollo de la IA:
 * **Email:** [Otoniel.rondon@gmail.com](mailto:Otoniel.rondon@gmail.com)
 * **Ubicación:** 📍 España
 
----
-<p align="center">
-<i>"El futuro pertenece a quienes creen en la belleza de sus sueños y el poder del código."</i>
-</p>
-
 
 
 
