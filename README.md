@@ -24,7 +24,6 @@ Actualmente enfocado en el desarrollo de la IA:
 
 ## 📧 Contacto
 * **Email:** [Otoniel.rondon@gmail.com](mailto:Otoniel.rondon@gmail.com)
-* **Instagram:** [@otonielorg](https://instagram.com/otonielorg)
 * **Ubicación:** 📍 España
 
 ---
