@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Otoniel Rondon
 
-<!--
-**Otoorg/Otoorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Creador de contenido en Instagram / **Estudiante de IA engineer en 4Geeks Academy**
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ SOBRE MÍ
+Soy un creador de contenido en Instagram desde hace 7 años. Estoy comenzando en el campo de la inteligencia Artificial y la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Aprendiendo
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 🎯 Objetivos
+Seguir aprendiendo en todo este campo de la Inteligencia artifial.
+
+---
+
+## 📧 Contacto
+* Email: [Otoniel.rondon@gmail.com]
+
+
+
+
+
+
+
