@@ -21,6 +21,11 @@ Actualmente enfocado en el desarrollo de la IA:
 * 📈 Seguir creciendo en el ecosistema tecnológico.
 
 ---
+## 📊 GitHub Stats
+![Otoniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otoorg&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otoorg&layout=compact&theme=radical)
+
+---
 
 ## 📧 Contacto
 * **Email:** [Otoniel.rondon@gmail.com](mailto:Otoniel.rondon@gmail.com)
